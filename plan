@@ -1,0 +1,29 @@
+user flow
+
+first idea - secret message
+
+- input a word into the box
+- send the word to the anagram site
+- scrape the resulting anagrams
+- put resulting anagrams (first 10? 20? hardest? tbd) into an array
+- generate new site that displays resulting anagrams one at a time
+  - there will also be a countdown indicator for the # of anagrams left until you get the secret message
+- once the countdown timer ends, you get the secret message back
+
+  structure
+
+  m
+    - scraper
+  c
+    - 
+  v
+    - / = put a word in the box
+    - /fwafav = aka encoded stuff, retrieve the message
+
+
+
+second idea - game
+
+- select a difficulty level
+- go to the play page where you see the first anagram and have an input box
+- you have until the # of anagrams run out to put the answer in the box
